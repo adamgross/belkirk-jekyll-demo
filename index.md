@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Homey
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Belkirk College
